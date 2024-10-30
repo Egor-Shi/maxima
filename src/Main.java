@@ -8,7 +8,6 @@ public class Main {
 
         System.out.println("1");
         System.out.println("1");
-        System.out.println("1");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
 
         }
