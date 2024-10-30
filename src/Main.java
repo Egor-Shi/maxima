@@ -7,6 +7,7 @@ public class Main {
         System.out.print("Hello and welcome!");
 
         System.out.println("1");
+      //  https://github.com/Egor-Shi/maxima
         System.out.println("1");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
 
